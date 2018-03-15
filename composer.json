@@ -1,5 +1,5 @@
 {
-    "name": "damonsnow/abcimyfun",
+    "name": "damonsnow/abcimyfun1",
     "type": "library",
     "description": "test a pakagist",
     "authors": [
@@ -8,13 +8,12 @@
             "email": "domine_huang@unicompound.com"
         }
     ],
-    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6"
+    },
     "autoload": {
         "psr-4": {
             "ABCI\\Myfun\\": "src"
         }
-    },
-    "require": {
-        "php": ">=5.6"
     }
 }
