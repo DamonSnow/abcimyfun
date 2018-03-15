@@ -1,0 +1,20 @@
+{
+    "name": "damonsnow/abcimyfun",
+    "type": "library",
+    "description": "test a pakagist",
+    "authors": [
+        {
+            "name": "DamonSnow",
+            "email": "domine_huang@unicompound.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Damon\\Fun\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=5.6"
+    }
+}
