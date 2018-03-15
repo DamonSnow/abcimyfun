@@ -6,7 +6,7 @@
  * Time: 16:14
  */
 
-namespace Damon\Fun;
+namespace ABCI\Myfun;
 
 
 class Fun
